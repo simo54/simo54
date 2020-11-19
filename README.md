@@ -13,5 +13,6 @@ I am a passionate developer who wants to make an impact on tech industry and tea
 
 ### Main Project 
 
-- [Worki](https://github.com/simo54/worki) along with [WorkiServer](https://github.com/simo54/workiServer) (Built in 3 weeks, currently in evolution)
-- [pokedexwbs](https://github.com/simo54/pokedexwbs), a team project
+- [Worki](https://github.com/simo54/worki) along with [WorkiServer](https://github.com/simo54/workiServer), a job board website (Built in 3 weeks, currently in evolution)
+- [pokedexwbs](https://github.com/simo54/pokedexwbs), a team project within WBS Class
+- [Hostelly](https://github.com/simo54/Hostel_php), a hostel website where users can book their room/bed (in progress) 
