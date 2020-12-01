@@ -15,3 +15,4 @@ I am a passionate developer who wants to make an impact on tech industry and tea
 
 ## Side Projects
 - [5starsRating](https://github.com/simo54/5starsRating), a 5 stars rating with Jquery
+- [PhotoLoco](https://github.com/simo54/photoLocoFrontPage), visual landing page with React 
