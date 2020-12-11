@@ -2,9 +2,9 @@
 
 I am a passionate developer who wants to make an impact on tech industry and team projects and I am actively looking for the nex career in the tech industry.
 
-- 🌱 I’m currently learning Flutter
+- 🕊 At the moment I am volunteering for a start-up using my coding skills
 - 🐱‍🏍 I love to study and to discover new things 
-- ⚡ Fun fact: Few weeks ago I made the best homemade pizza of my entire life
+- 🍕 Fun fact: Few weeks ago I made the best homemade pizza of my entire life
 
 
 ## Main Projects
