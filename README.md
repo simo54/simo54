@@ -13,7 +13,7 @@ My name is Simone and I am a passionate developer who wants to make an impact on
 - [Worki](https://github.com/simo54/worki) along with [WorkiServer](https://github.com/simo54/workiServer), a job board website (Built in 3 weeks) 
 - [pokedexwbs](https://github.com/simo54/pokedexwbs), a team project within WBS Class
 - [Hostelly](https://github.com/simo54/Hostel_php), a hostel website where users can book their room/bed 
-- [Buy&Sell](https://github.com/simo54/Angular-Buy-Sell) a full LinkedIn project using Angular (in progress)
+- [Buy&Sell](https://github.com/simo54/Angular-Buy-Sell) a full LinkedIn project using Angular 8 (in progress)
 
 ## Side Projects / Demos
 - [5starsRating](https://github.com/simo54/5starsRating), a 5 stars rating with Jquery
