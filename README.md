@@ -1,8 +1,8 @@
 # Hi 👋! Welcome to my profile! 👨‍💻
 
-My name is Simone and I am a passionate developer who wants to make an impact on the tech industry, I am actively looking for the next career in the tech industry.
+My name is Simone and I am a passionate developer who wants to make an impact on the tech industry.
 
-- 🕊 At the moment I am volunteering for a start-up using my coding skills
+- 💻 Currently employed full-time as Frontend-developer
 - 🐱‍🏍 I love to study and to discover new things 
 - 🍕 Fun fact: Few weeks ago I made the best homemade pizza of my entire life
 
