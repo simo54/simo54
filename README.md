@@ -28,5 +28,3 @@ My name is Simone and I am a passionate developer who wants to make an impact on
 ## Badges 
 
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=simo54&count_private=true&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo54&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
