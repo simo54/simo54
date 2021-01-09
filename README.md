@@ -24,3 +24,9 @@ My name is Simone and I am a passionate developer who wants to make an impact on
 - [TodoList with Redux](https://github.com/simo54/reduxToDoList) todoList with React, Redux (with hooks), and local storage
 - [JWT Authentication](https://github.com/simo54/serverJWT) authentication server using JWT and MongoDB
 - [Code Challenges](https://github.com/simo54/algorithms), real life code challenges
+
+## Badges 
+
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=simo54&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simo54&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
