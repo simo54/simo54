@@ -6,16 +6,7 @@ My name is Simone and I am a passionate developer who wants to make an impact on
 - 🐱‍🏍 I love to study and to discover new things 
 - 🍕 Fun fact: Few weeks ago I made the best homemade pizza of my entire life
 
-
-## Main Projects
-
-- [Personal Website](https://github.com/simo54/personalPortfolio), personal portfolio using Animate.css and AOS.js (in progress)
-- [Worki](https://github.com/simo54/worki) along with [WorkiServer](https://github.com/simo54/workiServer), a job board website (Built in 3 weeks) 
-- [pokedexwbs](https://github.com/simo54/pokedexwbs), a team project within WBS Class
-- [Hostelly](https://github.com/simo54/Hostel_php), a hostel website where users can book their room/bed 
-- [Buy&Sell](https://github.com/simo54/Angular-Buy-Sell) a full LinkedIn project using Angular 8 (in progress)
-
-## Side Projects / Demos
+## Projects / Demos
 - [5starsRating](https://github.com/simo54/5starsRating), a 5 stars rating with Jquery
 - [PhotoLoco](https://github.com/simo54/photoLocoFrontPage), visual landing page with React 
 - [AirportCode](https://github.com/simo54/airportcodes), addon that will give back city and country from a certain iata code. Project along with [serverAirportCode](https://github.com/simo54/serverAirportCode)
