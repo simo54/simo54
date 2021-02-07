@@ -16,6 +16,8 @@ My name is Simone and I am a passionate developer who wants to make an impact on
 - [JWT Authentication](https://github.com/simo54/serverJWT) authentication server using JWT and MongoDB
 - [Code Challenges](https://github.com/simo54/algorithms), real life code challenges
 - [Next.js Template](https://github.com/simo54/nextjs_persistent_layout), a basic Next.js template with persistent layout ready to use
+- [Tags Collector](https://github.com/simo54/gui_py), a GUI to collect tags with a given url [in progress]
+
 ## Badges 
 
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=simo54&count_private=true&show_icons=true&theme=radical)
