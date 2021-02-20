@@ -1,11 +1,5 @@
 # Hi 👋! Welcome to my profile! 👨‍💻
 
-My name is Simone and I am a passionate developer who wants to make an impact on the tech industry.
-
-- 💻 Currently employed full-time as Frontend-developer
-- 🐱‍🏍 I love to study and to discover new things 
-- 🍕 Fun fact: Few weeks ago I made the best homemade pizza of my entire life
-
 ## Projects / Demos
 - [R.T.H. Repetitive Task Helper](https://github.com/simo54/Repetitive_Task_Helper), Python script that will save you hours of manual script typing 🆕
 - [Tags Collector](https://github.com/simo54/gui_py), a GUI to collect tags with a given url 🆕
@@ -18,5 +12,4 @@ My name is Simone and I am a passionate developer who wants to make an impact on
 - [Code Challenges](https://github.com/simo54/algorithms), real life code challenges
 
 ## Badges 
-
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=simo54&count_private=true&show_icons=true&theme=radical)
