@@ -1,4 +1,20 @@
-# Hi 👋! Welcome to my profile! 👨‍💻
+# Welcome to my profile 👋 👨‍💻
+
+```
+const human = {
+  name: "Simone",
+  profession: "Frontend Developer",
+  age: undefined,
+  location: {
+    continent: "Europe",
+    country: "IT",
+    region: "LOM",
+  },
+  machines: ["Windows", "Mac OS", "Linux"],
+  volunteer: ["donate:code", "SheTech"],
+  working_on_projects: true,
+};
+```
 
 ## Projects / Demos
 - [R.T.H. Repetitive Task Helper](https://github.com/simo54/Repetitive_Task_Helper), Python script that will save you hours of manual script typing 🆕
