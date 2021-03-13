@@ -11,7 +11,6 @@ const human = {
     region: "LOM",
   },
   machines: ["Windows", "Mac OS", "Linux"],
-  volunteer: ["donate:code", "SheTech"],
   working_on_projects: true,
 };
 ```
