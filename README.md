@@ -16,7 +16,7 @@ const human = {
 ```
 
 ## Projects / Demos
-- [ATS - Resume Screening](https://github.com/simo54/free_ats), a free to use ATS for resume screening 🚧 work in progress 🚧
+- [ATS - Resume Screening](https://github.com/simo54/free_ats), a free to use ATS for resume screening
 - [R.T.H. Repetitive Task Helper](https://github.com/simo54/Repetitive_Task_Helper), Python script that will save you hours of manual script typing 
 - [Tags Collector](https://github.com/simo54/gui_py), a GUI to collect tags with a given url 
 - [Next.js Template](https://github.com/simo54/nextjs_persistent_layout), a basic Next.js template with persistent layout ready to use 
