@@ -1,20 +1,5 @@
 # Welcome to my profile 👋 👨‍💻
 
-```
-const human = {
-  name: "Simone",
-  profession: "Frontend Developer",
-  age: undefined,
-  location: {
-    continent: "Europe",
-    country: "IT",
-    region: "LOM",
-  },
-  machines: ["Windows", "Mac OS", "Linux"],
-  working_on_projects: true,
-};
-```
-
 ## Projects / Demos
 - [ATS - Resume Screening](https://github.com/simo54/free_ats), a free to use ATS for resume screening
 - [R.T.H. Repetitive Task Helper](https://github.com/simo54/Repetitive_Task_Helper), Python script that will save you hours of manual script typing 
