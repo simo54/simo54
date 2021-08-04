@@ -10,6 +10,3 @@
 - [Data Visualization](https://github.com/simo54/dataVisualization), a quick look on some stats using Python and Jupyter Notebooks
 - [JWT Authentication](https://github.com/simo54/serverJWT) authentication server using JWT and MongoDB
 - [Code Challenges](https://github.com/simo54/algorithms), real life code challenges
-
-## Badges 
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=simo54&count_private=true&show_icons=true&theme=radical)
